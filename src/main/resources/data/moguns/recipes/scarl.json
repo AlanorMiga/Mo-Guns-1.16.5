@@ -1,0 +1,20 @@
+{
+    "type": "cgm:workbench",
+    "result": {
+        "item": "moguns:scarl"
+    },
+    "materials": [
+        {
+            "item": "moguns:scarl_grip",
+            "count": 1
+        },
+        {
+            "item": "moguns:scarl_receiver",
+            "count": 1
+        },
+        {
+            "item": "moguns:barrel",
+            "count": 1
+        }
+    ]
+}

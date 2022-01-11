@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#TS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:smooth_sandstone"
+        },
+        "S": {
+            "item": "moguns:steel_sheet"
+        },
+        "T": {
+            "item": "moguns:trigger"
+        }
+    },
+    "result": {
+        "item": "moguns:scarl_grip",
+        "count": 1
+    }
+}

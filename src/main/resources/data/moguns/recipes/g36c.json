@@ -1,0 +1,20 @@
+{
+    "type": "cgm:workbench",
+    "result": {
+        "item": "moguns:g36c"
+    },
+    "materials": [
+        {
+            "item": "moguns:g36c_grip",
+            "count": 1
+        },
+        {
+            "item": "moguns:g36c_receiver",
+            "count": 1
+        },
+        {
+            "item": "moguns:barrel",
+            "count": 1
+        }
+    ]
+}

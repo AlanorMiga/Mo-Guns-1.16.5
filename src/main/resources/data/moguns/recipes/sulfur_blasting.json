@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "moguns:raw_sulfur"
+    },
+    "result": "moguns:sulfur",
+    "experience": 1,
+    "cookingtime": 100
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "SRS"
+    ],
+    "key": {
+        "#": {
+            "item": "moguns:steel_ingot"
+        },
+        "P": {
+            "item": "moguns:spring"
+        },
+        "S": {
+            "item": "minecraft:andesite"
+        },
+        "R": {
+            "item": "minecraft:repeater"
+        }
+    },
+    "result": {
+        "item": "moguns:g36c_receiver",
+        "count": 1
+    }
+}

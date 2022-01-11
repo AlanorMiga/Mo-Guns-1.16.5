@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "moguns:steel_sheet"
+        }
+    },
+    "result": {
+        "item": "moguns:barrel",
+        "count": 1
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "general": {
+        "auto": false,
+        "rate": 3,
+        "gripType": "cgm:one_handed",
+        "maxAmmo": 17,
+        "reloadAmount": 4,
+        "recoilKick": 0.25,
+        "recoilAngle": 2,
+        "alwaysSpread": false,
+        "spread": 3.0
+    },
+    "projectile": {
+        "item": "moguns:9",
+        "visible": false,
+        "damage": 5.4,
+        "size": 0.2,
+        "speed": 30.0,
+        "life": 100
+    },
+    "sounds": {
+        "fire": "moguns:item.glock_fire",
+        "reload": "cgm:item.pistol.reload",
+        "cock": "moguns:item.glock_cock",
+        "silencedFire": "moguns:item.glock_supressed_fire"
+    },
+    "display": {
+        "flash": {
+            "yOffset": 3,
+            "zOffset": 3
+        }
+    },
+    "modules": {
+        "zoom": {
+            "fovModifier": 0.7,
+            "yOffset": 3.7
+        },
+        "attachments": {
+            "barrel": {
+                "yOffset": 3,
+                "zOffset": 3,
+                "scale": 0.5
+            }
+        }
+    }
+}

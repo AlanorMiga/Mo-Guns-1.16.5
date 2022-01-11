@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "SLS",
+        "SSS"
+    ],
+    "key": {
+        "#": {
+            "item": "moguns:steel_sheet"
+        },
+        "S": {
+            "item": "moguns:steel_nugget"
+        },
+        "L": {
+            "item": "minecraft:lever"
+        }
+    },
+    "result": {
+        "item": "moguns:trigger",
+        "count": 1
+    }
+}

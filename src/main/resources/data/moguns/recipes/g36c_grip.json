@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#TS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:andesite"
+        },
+        "T": {
+            "item": "moguns:trigger"
+        },
+        "S": {
+            "item": "moguns:steel_sheet"
+        }
+    },
+    "result": {
+        "item": "moguns:g36c_grip",
+        "count": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "general": {
+        "auto": false,
+        "rate": 20,
+        "gripType": "cgm:two_handed",
+        "maxAmmo": 6,
+        "reloadAmount": 1,
+        "recoilAngle": 5.0,
+        "recoilKick": 1.0,
+        "recoilDurationOffset": 0.25
+    },
+    "projectile": {
+        "item": "moguns:snowball",
+        "visible": true,
+        "damage": 10,
+        "size": 0.2,
+        "speed": 2.0,
+        "life": 50,
+        "gravity": true,
+        "damageReduceOverLife": false
+    },
+    "sounds": {
+        "fire": "moguns:item.snowball_launcher_fire",
+        "reload": "cgm:item.pistol.reload"
+    },
+    "display": {
+        "flash": {
+            "yOffset": 3.3,
+            "zOffset": -16
+        }
+    },
+    "modules": {
+        "zoom": {
+            "fovModifier": 0.7,
+            "yOffset": 7.5
+        },
+        "attachments": {
+            "stock": {
+                "yOffset": 3.3,
+                "zOffset": 7.95
+            }
+        }
+    }
+}

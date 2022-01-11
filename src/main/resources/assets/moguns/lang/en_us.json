@@ -1,0 +1,82 @@
+{
+	//Advancements
+	"advancements.moguns.title": "Mo' Guns",
+	"advancements.moguns.description": "What it says on the tin",
+	"advancements.moguns.crayfishtitle": "MrCrayfish's Gun Mod",
+	"advancements.moguns.crayfishdescription": "Welcome to MrCrayfish's Gun Mod!",
+	"advancements.moguns.minigun.title": "BRRRRRRRRT",
+	"advancements.moguns.minigun.description": "It costs 4 stacks of emeralds to fire this gun...for twelve seconds.",
+	"advancements.moguns.getbigiron.title": "Arizona Ranger",
+	"advancements.moguns.getbigiron.description": "To the town of Agua Fria rode a stranger one fine day...",
+	
+	//Creative Tab
+	"itemGroup.group": "Mo' Guns",
+	"itemGroup.components": "Mo' Comps",
+	"itemGroup.ammo": "Mo' Ammo",
+	
+	//Sounds
+	"subtitle.scarl.cock": "FN SCAR-L Cocking",
+	"subtitle.scarh.cock": "FN SCAR-H Cocking",
+	"subtitle.g36c.cock": "G36C Cocking",
+	"subtitle.akm.cock": "AKM Cocking",
+	"subtitle.as_val_cock": "AS VAL Cocking",
+	"subtitle.thompson_cock": "Thompson Cocking",
+	"subtitle.m16a1_cock": "M16A1 Cocking",
+	"subtitle.famas_cock": "FAMAS Cocking",
+	"subtitle.m1_garand_cock": "M1 Garand Cocking",
+	"subtitle.m1_garand_ping": "M1 Garand Ping",
+	"subtitle.glock.cock": "Glock Cocking",
+	"subtitle.wrapped_rifle_cock": "Wrapped Rifle Cocking",
+	"subtitle.trashcan.boom": "RIP Headphone Users",
+	"subtitle.trashcan.reload": "Polish guys laughing",
+	"subtitle.big_iron.pew": "Texas Red had not cleared leather...",
+	
+	//Guns
+	"item.moguns.scarl": "FN SCAR-L",
+	"item.moguns.scarh": "FN SCAR-H",
+	"item.moguns.g36c": "G36C",
+	"item.moguns.akm": "AK-47",
+	"item.moguns.as_val": "AS VAL",
+	"item.moguns.thompson": "Thompson",
+	"item.moguns.m16a1": "M16A1",
+	"item.moguns.famas": "FAMAS",
+	"item.moguns.m1_garand": "M1 Garand",
+	"item.moguns.glock": "Glock 17",
+	"item.moguns.wrapped_rifle": "Wrapped Rifle",
+	"item.moguns.snowball_launcher": "Snowball Launcher",
+	"item.moguns.big_iron": "Big Iron",
+	"item.moguns.trashcan": "Trash Can",
+
+	//Attachments
+	"item.moguns.reflex_sight": "Reflex Sight",
+
+	//Ammo
+	"item.moguns.762x51": "7.62x51mm",
+	"item.moguns.556x45": "5.56x45mm",
+	"item.moguns.9x39": "9x39mm",
+	"item.moguns.9": "9mm",
+	"item.moguns.x_mas_light": "X-mas Light",
+	"item.moguns.snowball": "Snowball",
+	"item.moguns.garbage": "Garbage",
+
+	//Resources
+	"item.moguns.raw_niter": "Raw Niter Ore",
+	"item.moguns.niter": "Niter",
+	"item.moguns.raw_sulfur": "Raw Sulfur Ore",
+	"item.moguns.sulfur": "Sulfur",
+	"item.moguns.raw_steel": "Raw Ballistic Steel",
+	"item.moguns.steel_ingot": "Ballistic Steel Ingot",
+	"item.moguns.steel_sheet": "Ballistic Steel Sheet",
+	"item.moguns.steel_nugget": "Ballistic Steel Nugget",
+	"item.moguns.barrel": "Barrel",
+	"item.moguns.spring": "Spring",
+	"item.moguns.trigger": "Trigger",
+
+	//Comps
+	"item.moguns.scarl_receiver": "FN SCAR-L Receiver",
+	"item.moguns.scarl_grip": "FN SCAR-L Grip",
+	"item.moguns.g36c_receiver": "G36C Receiver",
+	"item.moguns.g36c_grip": "G36C Grip",
+	"item.moguns.akm_body": "AK-47 Body"
+
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "moguns:raw_steel"
+    },
+    "result": "moguns:steel_nugget",
+    "experience": 0.1,
+    "cookingtime": 100
+}

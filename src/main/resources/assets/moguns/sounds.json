@@ -1,0 +1,182 @@
+{
+  "item.scarl.fire": {
+    "subtitle": "subtitle.cgm.fire",
+    "sounds": [
+      { "name": "moguns:item/scarl_fire" }
+    ]
+  },
+  "item.scarl.suppressed_fire": {
+    "subtitle": "subtitle.cgm.fire.silenced",
+    "sounds": [
+      { "name": "moguns:item/scarl_suppressed_fire" }
+    ]
+  },
+  "item.scarl.cock": {
+    "subtitle": "subtitle.scarl.cock",
+    "sounds": [
+      { "name": "moguns:item/scarl_cock" }
+    ]
+  },
+  "item.g36c.fire": {
+    "subtitle": "subtitle.cgm.fire",
+    "sounds": [
+      { "name": "moguns:item/g36c_fire" }
+    ]
+  },
+  "item.g36c.suppressed_fire": {
+    "subtitle": "subtitle.cgm.fire.silenced",
+    "sounds": [
+      { "name": "moguns:item/g36c_suppressed_fire" }
+    ]
+  },
+  "item.g36c.cock": {
+    "subtitle": "subtitle.g36c.cock",
+    "sounds": [
+      { "name": "moguns:item/g36c_cock" }
+    ]
+  },
+  "item.akm.fire": {
+    "subtitle": "subtitle.cgm.fire",
+    "sounds": [
+      { "name": "moguns:item/akm_fire" }
+    ]
+  },
+  "item.akm.cock": {
+    "subtitle": "subtitle.akm.cock",
+    "sounds": [
+      { "name": "moguns:item/akm_cock" }
+    ]
+  },
+  "item.as_val_fire": {
+    "subtitle": "subtitle.as_val_fire",
+    "sounds": [
+      { "name": "moguns:item/as_val_fire" }
+    ]
+  },
+  "item.as_val_cock": {
+    "subtitle": "subtitle.as_val_cock",
+    "sounds": [
+      { "name": "moguns:item/as_val_cock" }
+    ]
+  },
+  "item.thompson_fire": {
+    "subtitle": "subtitle.thompson_fire",
+    "sounds": [
+      { "name": "moguns:item/thompson_fire" }
+    ]
+  },
+  "item.thompson_cock": {
+    "subtitle": "subtitle.thompson_cock",
+    "sounds": [
+      { "name": "moguns:item/thompson_cock" }
+    ]
+  },
+  "item.m16a1_fire": {
+    "subtitle": "subtitle.m16a1_fire",
+    "sounds": [
+      { "name": "moguns:item/m16a1_fire" }
+    ]
+  },
+  "item.m16a1_cock": {
+    "subtitle": "subtitle.m16a1_cock",
+    "sounds": [
+      { "name": "moguns:item/m16a1_cock" }
+    ]
+  },
+  "item.famas_fire": {
+    "subtitle": "subtitle.famas_fire",
+    "sounds": [
+      { "name": "moguns:item/famas_fire" }
+    ]
+  },
+  "item.famas_cock": {
+    "subtitle": "subtitle.famas_cock",
+    "sounds": [
+      { "name": "moguns:item/famas_cock" }
+    ]
+  },
+  "item.m1_garand_fire": {
+    "subtitle": "subtitle.m1_garand_fire",
+    "sounds": [
+      { "name": "moguns:item/m1_garand_fire" }
+    ]
+  },
+  "item.m1_garand_cock": {
+    "subtitle": "subtitle.m1_garand_cock",
+    "sounds": [
+      { "name": "moguns:item/m1_garand_cock" }
+    ]
+  },
+  "item.m1_garand_ping": {
+    "subtitle": "subtitle.m1_garand_ping",
+    "sounds": [
+      { "name": "moguns:item/m1_garand_ping" }
+    ]
+  },
+  "item.m1_garand_reload": {
+    "subtitle": "subtitle.m1_garand_reload",
+    "sounds": [
+      { "name": "moguns:item/m1_garand_reload" }
+    ]
+  },
+  "item.glock_cock": {
+    "subtitle": "subtitle.glock_cock",
+    "sounds": [
+      { "name": "moguns:item/glock_cock" }
+    ]
+  },
+  "item.glock_fire": {
+    "subtitle": "subtitle.glock_fire",
+    "sounds": [
+      { "name": "moguns:item/glock_fire" }
+    ]
+  },
+  "item.glock_supressed_fire": {
+    "subtitle": "subtitle.glock_supressed_fire",
+    "sounds": [
+      { "name": "moguns:item/glock_supressed_fire" }
+    ]
+  },
+  "item.wrapped_rifle_fire": {
+    "subtitle": "subtitle.wrapped_rifle_fire",
+    "sounds": [
+      { "name": "moguns:item/wrapped_rifle_fire" }
+    ]
+  },
+  "item.wrapped_rifle_cock": {
+    "subtitle": "subtitle.wrapped_rifle_cock",
+    "sounds": [
+      { "name": "moguns:item/wrapped_rifle_cock" }
+    ]
+  },
+  "item.wrapped_rifle_tune": {
+    "subtitle": "subtitle.wrapped_rifle_tune",
+    "sounds": [
+      { "name": "moguns:item/wrapped_rifle_tune" }
+    ]
+  },
+  "item.snowball_launcher_fire": {
+    "subtitle": "subtitle.snowball_launcher_fire",
+    "sounds": [
+      { "name": "moguns:item/snowball_launcher_fire" }
+    ]
+  },
+  "item.trashcan.boom": {
+    "subtitle": "subtitle.trashcan.boom",
+    "sounds": [
+      { "name": "moguns:item/boom" }
+    ]
+  },
+  "item.trashcan.reload": {
+    "subtitle": "subtitle.trashcan.reload",
+    "sounds": [
+      { "name": "moguns:item/trashcanreload" }
+    ]
+  },
+  "item.big_iron.fire": {
+    "subtitle": "subtitle.big_iron.pew",
+    "sounds": [
+      { "name": "moguns:item/big_iron" }
+    ]
+  }
+}

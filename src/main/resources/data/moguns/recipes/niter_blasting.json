@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "moguns:raw_niter"
+    },
+    "result": "moguns:niter",
+    "experience": 1,
+    "cookingtime": 100
+}

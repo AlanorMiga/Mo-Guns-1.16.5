@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "SLS"
+    ],
+    "key": {
+        "#": {
+            "item": "moguns:steel_ingot"
+        },
+        "P": {
+            "item": "moguns:spring"
+        },
+        "S": {
+            "item": "minecraft:smooth_sandstone"
+        },
+        "L": {
+            "item": "minecraft:lever"
+        }
+    },
+    "result": {
+        "item": "moguns:scarl_receiver",
+        "count": 1
+    }
+}
